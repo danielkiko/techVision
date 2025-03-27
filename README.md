@@ -13,13 +13,13 @@ https://arxiv.org/pdf/1907.12646 - Camera Exposure Control for Robust Robot Visi
 with Noise-Aware Image Quality Assessment
 
 https://arxiv.org/pdf/1903.09169 - Quantitative Depth Quality Assessment of RGBD Cameras At Close
-Range Using 3D Printed Fixtures
+Range Using 3D Printed Fixtures "-"
 
 https://arxiv.org/pdf/1711.10700 - BLADE: Filter Learning for General Purpose
-Computational Photography
+Computational Photography "-?"
 
 https://arxiv.org/pdf/1901.09482 - Bridging the Gap Between Computational
-Photography and Visual Recognition
+Photography and Visual Recognition "Как субъективные оценки влияют"
 
 https://arxiv.org/pdf/2306.06089 - Computational Flash Photography through Intrinsics https://yaksoy.github.io/intrinsicFlash/
 
@@ -29,7 +29,9 @@ https://arxiv.org/pdf/2309.06724 - Deep Nonparametric Convexified Filtering for 
 Image Synthesis and Adversarial Defense
 
 https://arxiv.org/pdf/2204.04987 - A Dual Sensor Computational Camera for
-High Quality Dark Videography
+High Quality Dark Videography "как получали метрики"
+
+Вставить под статьи полезные куски или как отдельный файликб посмотреть по фото какие метрики есть и как их распределить
 
 https://arxiv.org/pdf/2009.09981
 https://arxiv.org/pdf/1710.06480
