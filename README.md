@@ -22,9 +22,11 @@ https://arxiv.org/pdf/1901.09482 - Bridging the Gap Between Computational
 Photography and Visual Recognition
 
 https://arxiv.org/pdf/2306.06089 - Computational Flash Photography through Intrinsics https://yaksoy.github.io/intrinsicFlash/
-https://arxiv.org/pdf/2308.01379
-https://arxiv.org/pdf/2309.06724
-https://arxiv.org/pdf/2204.04987
+https://arxiv.org/pdf/2308.01379 - Computational Long Exposure Mobile Photography
+https://arxiv.org/pdf/2309.06724 - Deep Nonparametric Convexified Filtering for Computational Photography,
+Image Synthesis and Adversarial Defense
+https://arxiv.org/pdf/2204.04987 - A Dual Sensor Computational Camera for
+High Quality Dark Videography
 https://arxiv.org/pdf/2009.09981
 https://arxiv.org/pdf/1710.06480
 https://arxiv.org/pdf/2003.10167
