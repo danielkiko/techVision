@@ -16,3 +16,4 @@ def calculate_sharpness(image_path):
 def sharp(image_path):
     sharpness = calculate_sharpness(image_path)
     print(f"Sharpness: {sharpness}")
+    #от нуля до ????
