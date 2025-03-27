@@ -1,3 +1,3 @@
 import Sharpness
-print("xjiouadadflnk")
+image_path = "D:\\qwerty.png"
 Sharpness.sharp()
