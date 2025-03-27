@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 
-
 def calculate_sharpness(image_path):
     # Загрузка изображения в оттенках серого
     image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
@@ -14,8 +13,7 @@ def calculate_sharpness(image_path):
 
     return sharpness
 
-def sharp():
-    # Пример использования
-    image_path = "D:\\qwerty.png"
+def sharp(image_path):
     sharpness = calculate_sharpness(image_path)
     print(f"Sharpness: {sharpness}")
+    #от нуля до ????
