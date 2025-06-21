@@ -37,6 +37,8 @@ def ir_contamination_score(image_path, threshold=10, show=False):
         plt.tight_layout()
         plt.show()
 
+    print(f"IR diff = {mean_score}")
+    print(f"Mask % = {pct_above}")
     return mean_score, pct_above, ir_diff, mask
 
 if __name__ == "__main__":

@@ -112,7 +112,7 @@ def estimate_edge_based_distortion(image_path, num_samples=2000, show=False):
         plt.title(f"Edge distortion score: {score:.2f}")
         plt.axis('off')
         plt.show()
-
+    print(f"Edge distortion score: {score:.2f}")
     return score
 
 if __name__ == "__main__":

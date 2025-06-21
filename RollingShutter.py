@@ -57,7 +57,7 @@ def rolling_shutter_score(image_path,
         plt.axis('off')
         plt.tight_layout()
         plt.show()
-
+    print(f"Rolling shutter tilt score = {score}")
     return score
 
 if __name__ == "__main__":

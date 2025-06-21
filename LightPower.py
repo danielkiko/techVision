@@ -67,6 +67,9 @@ def light_power_score(image_path,
         plt.tight_layout(rect=[0, 0, 1, 0.93])
         plt.show()
 
+    print(f"Mean {mean_lum}")
+    print(f"Uniformity {uniformity}")
+    print(f"Coeff_var {coeff_var}")
     return mean_lum, uniformity, coeff_var, grid_means
 
 if __name__ == "__main__":
