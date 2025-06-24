@@ -1,5 +1,14 @@
 # Репозиторий проекта по дисциплине "Техническое зрение"
 
+# ВКЛАД УЧАСТНИКОВ КОМАНДЫ
+| ФИО  | Вклад | Оценка |
+|-------|-----|-----|
+| Киколиашивли Даниэль | Разработка и объяснение классов Blicks, Colors, EffectBake, GeometricDistortions  |4|
+| Макаров Евгений   | Разработка и объяснение классов AliasingMuar, ChromeAbberation, InfraRed, Sharpness |4|
+| Айтиев дмитрий   | Разработка и объяснение классов LightPower, Noise, RollingShutter, Vinet |4|
+
+## КАЖДЫЙ УЧАСТНИК ВСТАВИЛ РЕАЛИЗАЦИЮ МЕТОДОВ СВОИХ КЛАССОВ В КЛАСС main САМОСТОЯТЕЛЬНО
+
 Варианты оценки камер:
 https://arxiv.org/pdf/2005.10547 - Perceptual Quality Assessment of Omnidirectional
 Images as Moving Camera Videos
