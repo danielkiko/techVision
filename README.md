@@ -3,7 +3,7 @@
 # ВКЛАД УЧАСТНИКОВ КОМАНДЫ
 | ФИО  | Вклад | Оценка |
 |-------|-----|-----|
-| Киколиашивли Даниэль | Разработка и объяснение классов Blicks, Colors, EffectBake, GeometricDistortions  |4|
+| Киколиашвили Даниэль | Разработка и объяснение классов Blicks, Colors, EffectBake, GeometricDistortions  |4|
 | Вылцан Евгений   | Разработка и объяснение классов AliasingMuar, ChromeAbberation, InfraRed, Sharpness |4|
 | Айтиев Дмитрий   | Разработка и объяснение классов LightPower, Noise, RollingShutter, Vinet |4|
 
