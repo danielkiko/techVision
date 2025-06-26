@@ -5,7 +5,7 @@
 |-------|-----|-----|
 | Киколиашивли Даниэль | Разработка и объяснение классов Blicks, Colors, EffectBake, GeometricDistortions  |4|
 | Вылцан Евгений   | Разработка и объяснение классов AliasingMuar, ChromeAbberation, InfraRed, Sharpness |4|
-| Айтиев дмитрий   | Разработка и объяснение классов LightPower, Noise, RollingShutter, Vinet |4|
+| Айтиев Дмитрий   | Разработка и объяснение классов LightPower, Noise, RollingShutter, Vinet |4|
 
 ## КАЖДЫЙ УЧАСТНИК ВСТАВИЛ РЕАЛИЗАЦИЮ МЕТОДОВ СВОИХ КЛАССОВ В КЛАСС main САМОСТОЯТЕЛЬНО
 
